@@ -1,12 +1,14 @@
-import { type Config } from "drizzle-kit";
+import type { Config } from "drizzle-kit";
 
 import { env } from "@/env";
 
 export default {
   schema: "./src/server/db/schema.ts",
-  driver: "mysql2",
+  out: "./src/server/db/migrations",
+  driver: "pg",
   dbCredentials: {
-    uri: env.DATABASE_URL,
+    connectionString: env.DATABASE_URL,
   },
-  tablesFilter: ["colours_of_zurich_*"],
+  tablesFilter: ["colors-of-zurich_*"],
+  strict: true,
 } satisfies Config;

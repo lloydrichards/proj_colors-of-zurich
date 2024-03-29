@@ -23,17 +23,31 @@ The development environment is built with [Docker](https://www.docker.com/). Mak
 To start the development environment, run:
 
 ```bash
-  bun run docker:up
+  docker compose up
 ```
 
 This will start the following services:
 
-- [Next.js](https://nextjs.org) on [http://localhost:3000](http://localhost:3000)
-- [Storybook](https://storybook.js.org/) on [http://localhost:6006](http://localhost:6006)
 - [Postgres](https://www.postgresql.org/) on [http://localhost:5432](http://localhost:5432)
+
+With the database running, you can now run the following commands:
+
+```bash
+  bun db:migrate
+  bun db:push
+  bun db:seed
+```
+
+This will create the necessary tables and seed the database with the data from the `db-data` folder.
+
+Finally, you can start the Next.js application by running:
+
+```bash
+  bun dev
+```
 
 To stop the development environment, run:
 
 ```bash
-  bun run docker:down
+  docker compose down
 ```

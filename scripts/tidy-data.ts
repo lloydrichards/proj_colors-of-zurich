@@ -1,4 +1,4 @@
-import { Data } from "./trefle-types";
+import type { Data } from "./trefle-types";
 
 const main = async () => {
   const path = "scripts/data/refine.json";
