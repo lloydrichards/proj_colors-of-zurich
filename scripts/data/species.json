@@ -1,0 +1,2492 @@
+[
+  {
+    "genus": "Acer",
+    "species": "platanoides",
+    "tree": "Acer platanoides"
+  },
+  {
+    "genus": "Malus",
+    "species": "domestica",
+    "tree": "Malus domestica"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "betulus",
+    "tree": "Carpinus betulus"
+  },
+  {
+    "genus": "Platanus",
+    "species": "x hispanica",
+    "tree": "Platanus"
+  },
+  {
+    "genus": "Betula",
+    "species": "pendula",
+    "tree": "Betula pendula"
+  },
+  {
+    "genus": "Acer",
+    "species": "campestre",
+    "tree": "Acer campestre"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "hippocastanum",
+    "tree": "Aesculus hippocastanum"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "excelsior",
+    "tree": "Fraxinus excelsior"
+  },
+  {
+    "genus": "Taxus",
+    "species": "baccata",
+    "tree": "Taxus baccata"
+  },
+  {
+    "genus": "Pinus",
+    "species": "sylvestris",
+    "tree": "Pinus sylvestris"
+  },
+  {
+    "genus": "Prunus",
+    "species": "avium",
+    "tree": "Prunus avium"
+  },
+  {
+    "genus": "Acer",
+    "species": "pseudoplatanus",
+    "tree": "Acer pseudoplatanus"
+  },
+  {
+    "genus": "Quercus",
+    "species": "robur",
+    "tree": "Quercus robur"
+  },
+  {
+    "genus": "Robinia",
+    "species": "pseudoacacia",
+    "tree": "Robinia pseudoacacia"
+  },
+  {
+    "genus": "Tilia",
+    "species": "x europaea",
+    "tree": "Tilia x europaea"
+  },
+  {
+    "genus": "Picea",
+    "species": "abies",
+    "tree": "Picea abies"
+  },
+  {
+    "genus": "Tilia",
+    "species": "cordata",
+    "tree": "Tilia cordata"
+  },
+  {
+    "genus": "Pyrus",
+    "species": "communis",
+    "tree": "Pyrus communis"
+  },
+  {
+    "genus": "Fagus",
+    "species": "sylvatica",
+    "tree": "Fagus sylvatica"
+  },
+  {
+    "genus": "Populus",
+    "species": "nigra",
+    "tree": "Populus nigra"
+  },
+  {
+    "genus": "Prunus",
+    "species": "serrulata",
+    "tree": "Prunus serrulata"
+  },
+  {
+    "genus": "Sophora",
+    "species": "japonica",
+    "tree": "Sophora japonica"
+  },
+  {
+    "genus": "Salix",
+    "species": "alba",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Prunus",
+    "species": "",
+    "tree": "Prunus"
+  },
+  {
+    "genus": "Gleditsia",
+    "species": "triacanthos",
+    "tree": "Gleditsia triacanthos"
+  },
+  {
+    "genus": "Pinus",
+    "species": "nigra",
+    "tree": "Pinus nigra"
+  },
+  {
+    "genus": "Juglans",
+    "species": "regia",
+    "tree": "Juglans regia"
+  },
+  {
+    "genus": "Alnus",
+    "species": "glutinosa",
+    "tree": "Alnus glutinosa"
+  },
+  {
+    "genus": "Prunus",
+    "species": "domestica",
+    "tree": "Prunus domestica"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "ornus",
+    "tree": "Fraxinus ornus"
+  },
+  {
+    "genus": "Prunus",
+    "species": "domestica domestica",
+    "tree": "Prunus domestica domestica"
+  },
+  {
+    "genus": "Liquidambar",
+    "species": "styraciflua",
+    "tree": "Liquidambar styraciflua"
+  },
+  {
+    "genus": "Celtis",
+    "species": "australis",
+    "tree": "Celtis australis"
+  },
+  {
+    "genus": "Larix",
+    "species": "decidua",
+    "tree": "Larix decidua"
+  },
+  {
+    "genus": "Tilia",
+    "species": "platyphyllos",
+    "tree": "Tilia platyphyllos"
+  },
+  {
+    "genus": "Populus",
+    "species": "tremula",
+    "tree": "Populus tremula"
+  },
+  {
+    "genus": "Chamaecyparis",
+    "species": "lawsoniana",
+    "tree": "Chamaecyparis lawsoniana"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "x carnea",
+    "tree": "Aesculus"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "",
+    "tree": "Ulmus"
+  },
+  {
+    "genus": "Acer",
+    "species": "cappadocicum",
+    "tree": "Acer cappadocicum"
+  },
+  {
+    "genus": "Corylus",
+    "species": "colurna",
+    "tree": "Corylus colurna"
+  },
+  {
+    "genus": "Prunus",
+    "species": "padus",
+    "tree": "Prunus padus"
+  },
+  {
+    "genus": "Parrotia",
+    "species": "persica",
+    "tree": "Parrotia persica"
+  },
+  {
+    "genus": "Alnus",
+    "species": "x spaethii",
+    "tree": "Alnus"
+  },
+  {
+    "genus": "Prunus",
+    "species": "cerasifera",
+    "tree": "Prunus cerasifera"
+  },
+  {
+    "genus": "Ginkgo",
+    "species": "biloba",
+    "tree": "Ginkgo biloba"
+  },
+  {
+    "genus": "Acer",
+    "species": "saccharinum",
+    "tree": "Acer saccharinum"
+  },
+  {
+    "genus": "Salix",
+    "species": "caprea",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Acer",
+    "species": "palmatum",
+    "tree": "Acer palmatum"
+  },
+  {
+    "genus": "Juglans",
+    "species": "regia (S)",
+    "tree": "Juglans regia (S)"
+  },
+  {
+    "genus": "Quercus",
+    "species": "cerris",
+    "tree": "Quercus cerris"
+  },
+  {
+    "genus": "Ilex",
+    "species": "aquifolium",
+    "tree": "Ilex aquifolium"
+  },
+  {
+    "genus": "Liriodendron",
+    "species": "tulipifera",
+    "tree": "Liriodendron tulipifera"
+  },
+  {
+    "genus": "Paulownia",
+    "species": "tomentosa",
+    "tree": "Paulownia tomentosa"
+  },
+  {
+    "genus": "Cydonia",
+    "species": "oblonga",
+    "tree": "Cydonia oblonga"
+  },
+  {
+    "genus": "Picea",
+    "species": "omorika",
+    "tree": "Picea omorika"
+  },
+  {
+    "genus": "Koelreuteria",
+    "species": "paniculata",
+    "tree": "Koelreuteria paniculata"
+  },
+  {
+    "genus": "Tilia",
+    "species": "tomentosa",
+    "tree": "Tilia tomentosa"
+  },
+  {
+    "genus": "Alnus",
+    "species": "incana",
+    "tree": "Alnus incana"
+  },
+  {
+    "genus": "Populus",
+    "species": "x canadensis",
+    "tree": "Populus x canadensis"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "kobus",
+    "tree": "Magnolia kobus"
+  },
+  {
+    "genus": "Cornus",
+    "species": "mas",
+    "tree": "Cornus mas"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "x lavalleei",
+    "tree": "Crataegus x lavalleei"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "intermedia",
+    "tree": "Sorbus intermedia"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "minor",
+    "tree": "Ulmus minor"
+  },
+  {
+    "genus": "Malus",
+    "species": "spec.",
+    "tree": "Malus"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "angustifolia",
+    "tree": "Fraxinus angustifolia"
+  },
+  {
+    "genus": "Populus",
+    "species": "alba",
+    "tree": "Populus alba"
+  },
+  {
+    "genus": "Catalpa",
+    "species": "bignonioides",
+    "tree": "Catalpa bignonioides"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "aucuparia",
+    "tree": "Sorbus aucuparia"
+  },
+  {
+    "genus": "Salix",
+    "species": "spec.",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Quercus",
+    "species": "rubra",
+    "tree": "Quercus rubra"
+  },
+  {
+    "genus": "Cercidiphyllum",
+    "species": "japonicum",
+    "tree": "Cercidiphyllum japonicum"
+  },
+  {
+    "genus": "Prunus",
+    "species": "domestica insititia",
+    "tree": "Prunus domestica insititia"
+  },
+  {
+    "genus": "Pinus",
+    "species": "mugo",
+    "tree": "Pinus mugo"
+  },
+  {
+    "genus": "Picea",
+    "species": "orientalis",
+    "tree": "Picea orientalis"
+  },
+  {
+    "genus": "Ostrya",
+    "species": "carpinifolia",
+    "tree": "Ostrya carpinifolia"
+  },
+  {
+    "genus": "Tilia",
+    "species": "spec.",
+    "tree": "Tilia"
+  },
+  {
+    "genus": "Thuja",
+    "species": "occidentalis",
+    "tree": "Thuja occidentalis"
+  },
+  {
+    "genus": "Ailanthus",
+    "species": "altissima (w)",
+    "tree": "Ailanthus altissima (w)"
+  },
+  {
+    "genus": "Ailanthus",
+    "species": "altissima (m)",
+    "tree": "Ailanthus altissima (m)"
+  },
+  {
+    "genus": "Betula",
+    "species": "utilis",
+    "tree": "Betula utilis"
+  },
+  {
+    "genus": "Thuja",
+    "species": "plicata",
+    "tree": "Thuja plicata"
+  },
+  {
+    "genus": "Gymnocladus",
+    "species": "dioica",
+    "tree": "Gymnocladus dioica"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "glabra",
+    "tree": "Ulmus glabra"
+  },
+  {
+    "genus": "Celtis",
+    "species": "occidentalis",
+    "tree": "Celtis occidentalis"
+  },
+  {
+    "genus": "Amelanchier",
+    "species": "lamarckii",
+    "tree": "Amelanchier lamarckii"
+  },
+  {
+    "genus": "Prunus",
+    "species": "domestica syriaca",
+    "tree": "Prunus domestica syriaca"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "flava",
+    "tree": "Aesculus flava"
+  },
+  {
+    "genus": "Obstbaum",
+    "species": "",
+    "tree": "Fruit Tree"
+  },
+  {
+    "genus": "Acer",
+    "species": "tataricum",
+    "tree": "Acer tataricum"
+  },
+  {
+    "genus": "Platanus",
+    "species": "orientalis",
+    "tree": "Platanus orientalis"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "spec.",
+    "tree": "Magnolia"
+  },
+  {
+    "genus": "Quercus",
+    "species": "petraea",
+    "tree": "Quercus petraea"
+  },
+  {
+    "genus": "Acer",
+    "species": "japonicum",
+    "tree": "Acer japonicum"
+  },
+  {
+    "genus": "Ailanthus",
+    "species": "altissima",
+    "tree": "Ailanthus altissima"
+  },
+  {
+    "genus": "Cedrus",
+    "species": "libani",
+    "tree": "Cedrus libani"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "x media",
+    "tree": "Crataegus x media"
+  },
+  {
+    "genus": "Cornus",
+    "species": "alternifolia",
+    "tree": "Cornus alternifolia"
+  },
+  {
+    "genus": "Prunus",
+    "species": "x subhirtella",
+    "tree": "Prunus x subhirtella"
+  },
+  {
+    "genus": "Metasequoia",
+    "species": "glyptostroboides",
+    "tree": "Metasequoia glyptostroboides"
+  },
+  {
+    "genus": "Cercis",
+    "species": "siliquastrum",
+    "tree": "Cercis siliquastrum"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "laevigata",
+    "tree": "Crataegus laevigata"
+  },
+  {
+    "genus": "Pterocarya",
+    "species": "fraxinifolia",
+    "tree": "Pterocarya fraxinifolia"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "aria",
+    "tree": "Sorbus aria"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "x soulangeana",
+    "tree": "Magnolia x soulangeana"
+  },
+  {
+    "genus": "Tsuga",
+    "species": "canadensis",
+    "tree": "Tsuga canadensis"
+  },
+  {
+    "genus": "Larix",
+    "species": "kaempferi",
+    "tree": "Larix kaempferi"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "spec.",
+    "tree": "Ulmus"
+  },
+  {
+    "genus": "Alnus",
+    "species": "cordata",
+    "tree": "Alnus cordata"
+  },
+  {
+    "genus": "Acer",
+    "species": "monspessulanum",
+    "tree": "Acer monspessulanum"
+  },
+  {
+    "genus": "Acer",
+    "species": "rubrum",
+    "tree": "Acer rubrum"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "pennsylvanica",
+    "tree": "Fraxinus pennsylvanica"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "monogyna",
+    "tree": "Crataegus monogyna"
+  },
+  {
+    "genus": "Zelkova",
+    "species": "serrata",
+    "tree": "Zelkova serrata"
+  },
+  {
+    "genus": "Abies",
+    "species": "alba",
+    "tree": "Abies alba"
+  },
+  {
+    "genus": "Abies",
+    "species": "nordmanniana",
+    "tree": "Abies nordmanniana"
+  },
+  {
+    "genus": "Cornus",
+    "species": "kousa",
+    "tree": "Cornus kousa"
+  },
+  {
+    "genus": "Quercus",
+    "species": "frainetto",
+    "tree": "Quercus frainetto"
+  },
+  {
+    "genus": "Quercus",
+    "species": "palustris",
+    "tree": "Quercus palustris"
+  },
+  {
+    "genus": "Chamaecyparis",
+    "species": "obtusa",
+    "tree": "Chamaecyparis obtusa"
+  },
+  {
+    "genus": "Prunus",
+    "species": "sargentii",
+    "tree": "Prunus sargentii"
+  },
+  {
+    "genus": "Prunus",
+    "species": "spec.",
+    "tree": "Prunus"
+  },
+  {
+    "genus": "Acer",
+    "species": "x freemanii",
+    "tree": "Acer x freemanii"
+  },
+  {
+    "genus": "Salix",
+    "species": "x sepulcralis",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Acer",
+    "species": "truncatum",
+    "tree": "Acer truncatum"
+  },
+  {
+    "genus": "Prunus",
+    "species": "cerasus",
+    "tree": "Prunus cerasus"
+  },
+  {
+    "genus": "Sequoiadendron",
+    "species": "giganteum",
+    "tree": "Sequoiadendron giganteum"
+  },
+  {
+    "genus": "Acer",
+    "species": "negundo",
+    "tree": "Acer negundo"
+  },
+  {
+    "genus": "Davidia",
+    "species": "involucrata",
+    "tree": "Davidia involucrata"
+  },
+  {
+    "genus": "Juglans",
+    "species": "nigra",
+    "tree": "Juglans nigra"
+  },
+  {
+    "genus": "Chamaecyparis",
+    "species": "spec.",
+    "tree": "Chamaecyparis"
+  },
+  {
+    "genus": "Prunus",
+    "species": "armeniaca",
+    "tree": "Prunus armeniaca"
+  },
+  {
+    "genus": "Prunus",
+    "species": "spinosa",
+    "tree": "Prunus spinosa"
+  },
+  {
+    "genus": "Castanea",
+    "species": "sativa",
+    "tree": "Castanea sativa"
+  },
+  {
+    "genus": "Malus",
+    "species": "",
+    "tree": "Malus"
+  },
+  {
+    "genus": "Morus",
+    "species": "alba",
+    "tree": "Morus alba"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "torminalis",
+    "tree": "Sorbus torminalis"
+  },
+  {
+    "genus": "Pinus",
+    "species": "heldreichii",
+    "tree": "Pinus heldreichii"
+  },
+  {
+    "genus": "Prunus",
+    "species": "domestica italica",
+    "tree": "Prunus domestica italica"
+  },
+  {
+    "genus": "Pyrus",
+    "species": "calleryana",
+    "tree": "Pyrus calleryana"
+  },
+  {
+    "genus": "Ficus",
+    "species": "carica",
+    "tree": "Ficus carica"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "parviflora",
+    "tree": "Aesculus parviflora"
+  },
+  {
+    "genus": "Amelanchier",
+    "species": "arborea",
+    "tree": "Amelanchier arborea"
+  },
+  {
+    "genus": "Betula",
+    "species": "nigra",
+    "tree": "Betula nigra"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "spec.",
+    "tree": "Aesculus"
+  },
+  {
+    "genus": "Picea",
+    "species": "pungens",
+    "tree": "Picea pungens"
+  },
+  {
+    "genus": "Sambucus",
+    "species": "nigra",
+    "tree": "Sambucus nigra"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "domestica",
+    "tree": "Sorbus domestica"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "x hollandica",
+    "tree": "Ulmus x hollandica"
+  },
+  {
+    "genus": "Taxus",
+    "species": "baccata (m)",
+    "tree": "Taxus baccata (m)"
+  },
+  {
+    "genus": "Castanea",
+    "species": "sativa (S)",
+    "tree": "Castanea sativa (S)"
+  },
+  {
+    "genus": "Laubbaum",
+    "species": "",
+    "tree": "Broadleaf Tree"
+  },
+  {
+    "genus": "Populus",
+    "species": "simonii",
+    "tree": "Populus simonii"
+  },
+  {
+    "genus": "Pterocarya",
+    "species": "rhoifolia",
+    "tree": "Pterocarya rhoifolia"
+  },
+  {
+    "genus": "Populus",
+    "species": "balsamifera",
+    "tree": "Populus balsamifera"
+  },
+  {
+    "genus": "Populus",
+    "species": "spec.",
+    "tree": "Populus"
+  },
+  {
+    "genus": "Taxus",
+    "species": "baccata (w)",
+    "tree": "Taxus baccata (w)"
+  },
+  {
+    "genus": "Chamaecyparis",
+    "species": "nootkatensis",
+    "tree": "Chamaecyparis nootkatensis"
+  },
+  {
+    "genus": "Populus",
+    "species": "x canescens",
+    "tree": "Populus x canescens"
+  },
+  {
+    "genus": "Amelanchier",
+    "species": "spec.",
+    "tree": "Amelanchier"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "spec.",
+    "tree": "Crataegus"
+  },
+  {
+    "genus": "Larix",
+    "species": "x marschlinsii",
+    "tree": "Larix x marschlinsii"
+  },
+  {
+    "genus": "Prunus",
+    "species": "lusitanica",
+    "tree": "Prunus lusitanica"
+  },
+  {
+    "genus": "Prunus",
+    "species": "mahaleb",
+    "tree": "Prunus mahaleb"
+  },
+  {
+    "genus": "Salix",
+    "species": "viminalis",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "laevis",
+    "tree": "Ulmus laevis"
+  },
+  {
+    "genus": "Acer",
+    "species": "spec.",
+    "tree": "Acer"
+  },
+  {
+    "genus": "Betula",
+    "species": "davurica",
+    "tree": "Betula davurica"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "x loebneri",
+    "tree": "Magnolia"
+  },
+  {
+    "genus": "Mespilus",
+    "species": "germanica",
+    "tree": "Mespilus germanica"
+  },
+  {
+    "genus": "Prunus",
+    "species": "persica",
+    "tree": "Prunus persica"
+  },
+  {
+    "genus": "Quercus",
+    "species": "ilex",
+    "tree": "Quercus ilex"
+  },
+  {
+    "genus": "Quercus",
+    "species": "spec.",
+    "tree": "Quercus"
+  },
+  {
+    "genus": "Betula",
+    "species": "ermanii",
+    "tree": "Betula ermanii"
+  },
+  {
+    "genus": "Salix",
+    "species": "babylonica",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Cedrus",
+    "species": "deodara",
+    "tree": "Cedrus deodara"
+  },
+  {
+    "genus": "Nothofagus",
+    "species": "antarctica",
+    "tree": "Nothofagus antarctica"
+  },
+  {
+    "genus": "Cladrastis",
+    "species": "kentukea",
+    "tree": "Cladrastis kentukea"
+  },
+  {
+    "genus": "Juglans",
+    "species": "spec.",
+    "tree": "Juglans"
+  },
+  {
+    "genus": "Thujopsis",
+    "species": "dolabrata",
+    "tree": "Thujopsis dolabrata"
+  },
+  {
+    "genus": "Tilia",
+    "species": "americana",
+    "tree": "Tilia americana"
+  },
+  {
+    "genus": "Acer",
+    "species": "davidii",
+    "tree": "Acer davidii"
+  },
+  {
+    "genus": "Calocedrus",
+    "species": "decurrens",
+    "tree": "Calocedrus decurrens"
+  },
+  {
+    "genus": "Cryptomeria",
+    "species": "japonica",
+    "tree": "Cryptomeria japonica"
+  },
+  {
+    "genus": "Larix",
+    "species": "spec.",
+    "tree": "Larix"
+  },
+  {
+    "genus": "Malus",
+    "species": "sylvestris",
+    "tree": "Malus sylvestris"
+  },
+  {
+    "genus": "Pinus",
+    "species": "wallichiana",
+    "tree": "Pinus wallichiana"
+  },
+  {
+    "genus": "Tilia",
+    "species": "henryana",
+    "tree": "Tilia henryana"
+  },
+  {
+    "genus": "Acer",
+    "species": "pseudoplatanus (V)",
+    "tree": "Acer pseudoplatanus (V)"
+  },
+  {
+    "genus": "Betula",
+    "species": "albosinensis",
+    "tree": "Betula"
+  },
+  {
+    "genus": "Betula",
+    "species": "spec.",
+    "tree": "Betula pendula"
+  },
+  {
+    "genus": "Cupressus",
+    "species": "arizonica",
+    "tree": "Cupressus arizonica"
+  },
+  {
+    "genus": "Maclura",
+    "species": "pomifera",
+    "tree": "Maclura pomifera"
+  },
+  {
+    "genus": "Acer",
+    "species": "buergerianum",
+    "tree": "Acer buergerianum"
+  },
+  {
+    "genus": "Cornus",
+    "species": "spec.",
+    "tree": "Cornus"
+  },
+  {
+    "genus": "Malus",
+    "species": "floribunda",
+    "tree": "Malus floribunda"
+  },
+  {
+    "genus": "Malus",
+    "species": "trilobata",
+    "tree": "Malus trilobata"
+  },
+  {
+    "genus": "Pinus",
+    "species": "halepensis",
+    "tree": "Pinus halepensis"
+  },
+  {
+    "genus": "Cornus",
+    "species": "controversa",
+    "tree": "Cornus controversa"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "spec.",
+    "tree": "Fraxinus"
+  },
+  {
+    "genus": "Pinus",
+    "species": "parviflora",
+    "tree": "Pinus parviflora"
+  },
+  {
+    "genus": "Taxodium",
+    "species": "distichum",
+    "tree": "Taxodium distichum"
+  },
+  {
+    "genus": "Toona",
+    "species": "sinensis",
+    "tree": "Toona sinensis"
+  },
+  {
+    "genus": "Acer",
+    "species": "cissifolium",
+    "tree": "Acer cissifolium"
+  },
+  {
+    "genus": "Acer",
+    "species": "platanoides (V)",
+    "tree": "Acer platanoides (V)"
+  },
+  {
+    "genus": "Acer",
+    "species": "rufinerve",
+    "tree": "Acer rufinerve"
+  },
+  {
+    "genus": "Alnus",
+    "species": "spec.",
+    "tree": "Alnus"
+  },
+  {
+    "genus": "Cornus",
+    "species": "florida",
+    "tree": "Cornus florida"
+  },
+  {
+    "genus": "Morus",
+    "species": "nigra",
+    "tree": "Morus nigra"
+  },
+  {
+    "genus": "Pseudotsuga",
+    "species": "menziesii",
+    "tree": "Pseudotsuga menziesii"
+  },
+  {
+    "genus": "Rhamnus",
+    "species": "cathartica",
+    "tree": "Rhamnus cathartica"
+  },
+  {
+    "genus": "Salix",
+    "species": "fragilis",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Sequoia",
+    "species": "sempervirens",
+    "tree": "Sequoia sempervirens"
+  },
+  {
+    "genus": "Tetradium",
+    "species": "daniellii",
+    "tree": "Tetradium daniellii"
+  },
+  {
+    "genus": "Acer",
+    "species": "carpinifolium",
+    "tree": "Acer carpinifolium"
+  },
+  {
+    "genus": "Acer",
+    "species": "griseum",
+    "tree": "Acer griseum"
+  },
+  {
+    "genus": "Amelanchier",
+    "species": "",
+    "tree": "Amelanchier"
+  },
+  {
+    "genus": "Buxus",
+    "species": "sempervirens",
+    "tree": "Buxus sempervirens"
+  },
+  {
+    "genus": "Eucommia",
+    "species": "ulmoides",
+    "tree": "Eucommia ulmoides"
+  },
+  {
+    "genus": "Acer",
+    "species": "x zoeschense",
+    "tree": "Acer"
+  },
+  {
+    "genus": "Ginkgo",
+    "species": "biloba (w)",
+    "tree": "Ginkgo biloba (w)"
+  },
+  {
+    "genus": "Laburnum",
+    "species": "x watereri",
+    "tree": "Laburnum x watereri"
+  },
+  {
+    "genus": "Populus",
+    "species": "x berolinensis",
+    "tree": "Populus x berolinensis"
+  },
+  {
+    "genus": "Pyrus",
+    "species": "salicifolia",
+    "tree": "Pyrus salicifolia"
+  },
+  {
+    "genus": "Araucaria",
+    "species": "araucana",
+    "tree": "Araucaria araucana"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "x persimilis",
+    "tree": "Crataegus x persimilis"
+  },
+  {
+    "genus": "Ginkgo",
+    "species": "biloba (m)",
+    "tree": "Ginkgo biloba (m)"
+  },
+  {
+    "genus": "Picea",
+    "species": "spec.",
+    "tree": "Picea"
+  },
+  {
+    "genus": "Quercus",
+    "species": "x turneri",
+    "tree": "Quercus"
+  },
+  {
+    "genus": "Salix",
+    "species": "daphnoides",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Tilia",
+    "species": "mongolica",
+    "tree": "Tilia mongolica"
+  },
+  {
+    "genus": "Acer",
+    "species": "opalus",
+    "tree": "Acer opalus"
+  },
+  {
+    "genus": "Chamaecyparis",
+    "species": "pisifera",
+    "tree": "Chamaecyparis pisifera"
+  },
+  {
+    "genus": "Prunus",
+    "species": "maackii",
+    "tree": "Prunus maackii"
+  },
+  {
+    "genus": "Salix",
+    "species": "cinerea",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Betula",
+    "species": "papyrifera",
+    "tree": "Betula papyrifera"
+  },
+  {
+    "genus": "Cephalotaxus",
+    "species": "harringtonii",
+    "tree": "Cephalotaxus harringtonii"
+  },
+  {
+    "genus": "Corylus",
+    "species": "avellana",
+    "tree": "Corylus avellana"
+  },
+  {
+    "genus": "Euonymus",
+    "species": "europaeus",
+    "tree": "Euonymus europaeus"
+  },
+  {
+    "genus": "Liquidambar",
+    "species": "spec.",
+    "tree": "Liquidambar"
+  },
+  {
+    "genus": "Malus",
+    "species": "tschonoskii",
+    "tree": "Malus tschonoskii"
+  },
+  {
+    "genus": "Pinus",
+    "species": "cembra",
+    "tree": "Pinus cembra"
+  },
+  {
+    "genus": "Prunus",
+    "species": "serotina",
+    "tree": "Prunus serotina"
+  },
+  {
+    "genus": "Pyrus",
+    "species": "spec.",
+    "tree": "Pyrus"
+  },
+  {
+    "genus": "Quercus",
+    "species": "coccinea",
+    "tree": "Quercus coccinea"
+  },
+  {
+    "genus": "Quercus",
+    "species": "x hispanica",
+    "tree": "Quercus x hispanica"
+  },
+  {
+    "genus": "Catalpa",
+    "species": "ovata",
+    "tree": "Catalpa ovata"
+  },
+  {
+    "genus": "Diospyros",
+    "species": "kaki",
+    "tree": "Diospyros kaki"
+  },
+  {
+    "genus": "Elaeagnus",
+    "species": "angustifolia",
+    "tree": "Elaeagnus angustifolia"
+  },
+  {
+    "genus": "Nyssa",
+    "species": "sylvatica",
+    "tree": "Nyssa sylvatica"
+  },
+  {
+    "genus": "Populus",
+    "species": "lasiocarpa",
+    "tree": "Populus lasiocarpa"
+  },
+  {
+    "genus": "Prunus",
+    "species": "fruticosa",
+    "tree": "Prunus fruticosa"
+  },
+  {
+    "genus": "Prunus",
+    "species": "serrula",
+    "tree": "Prunus serrula"
+  },
+  {
+    "genus": "Quercus",
+    "species": "macranthera",
+    "tree": "Quercus macranthera"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "mougeotii",
+    "tree": "Sorbus mougeotii"
+  },
+  {
+    "genus": "Celtis",
+    "species": "spec.",
+    "tree": "Celtis"
+  },
+  {
+    "genus": "Diospyros",
+    "species": "virginiana",
+    "tree": "Diospyros virginiana"
+  },
+  {
+    "genus": "Fagus",
+    "species": "spec.",
+    "tree": "Fagus"
+  },
+  {
+    "genus": "Juniperus",
+    "species": "communis",
+    "tree": "Juniperus communis"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "",
+    "tree": "Magnolia"
+  },
+  {
+    "genus": "Tamarix",
+    "species": "tetranda",
+    "tree": "Tamarix tetranda"
+  },
+  {
+    "genus": "Sycoparrotia",
+    "species": "semidecidua",
+    "tree": "hamamelis"
+  },
+  {
+    "genus": "Abies",
+    "species": "spec.",
+    "tree": "Abies"
+  },
+  {
+    "genus": "Acer",
+    "species": "saccharum",
+    "tree": "Acer saccharum"
+  },
+  {
+    "genus": "Broussonetia",
+    "species": "papyrifera",
+    "tree": "Broussonetia papyrifera"
+  },
+  {
+    "genus": "Catalpa",
+    "species": "spec.",
+    "tree": "Catalpa"
+  },
+  {
+    "genus": "Corylus",
+    "species": "spec.",
+    "tree": "Corylus"
+  },
+  {
+    "genus": "Koelreuteria",
+    "species": "spec.",
+    "tree": "Koelreuteria"
+  },
+  {
+    "genus": "Malus",
+    "species": "x purpurea",
+    "tree": "Malus x purpurea"
+  },
+  {
+    "genus": "Pinus",
+    "species": "spec.",
+    "tree": "Pinus"
+  },
+  {
+    "genus": "Prunus",
+    "species": "x yedoensis",
+    "tree": "Prunus x yedoensis"
+  },
+  {
+    "genus": "Quercus",
+    "species": "dentata",
+    "tree": "Quercus dentata"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "spec.",
+    "tree": "Sorbus"
+  },
+  {
+    "genus": "Taxus",
+    "species": "cuspidata",
+    "tree": "Taxus cuspidata"
+  },
+  {
+    "genus": "Zelkova",
+    "species": "serrulata",
+    "tree": "Zelkova serrata"
+  },
+  {
+    "genus": "Betula",
+    "species": "alleghaniensis",
+    "tree": "Betula alleghaniensis"
+  },
+  {
+    "genus": "Betula",
+    "species": "lenta",
+    "tree": "Betula lenta"
+  },
+  {
+    "genus": "Carya",
+    "species": "ovata",
+    "tree": "Carya ovata"
+  },
+  {
+    "genus": "Catalpa",
+    "species": "speciosa",
+    "tree": "Catalpa speciosa"
+  },
+  {
+    "genus": "Cercis",
+    "species": "canadensis",
+    "tree": "Cercis canadensis"
+  },
+  {
+    "genus": "Fagus",
+    "species": "orientalis",
+    "tree": "Fagus orientalis"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "americana",
+    "tree": "Fraxinus americana"
+  },
+  {
+    "genus": "Ilex",
+    "species": "aquifolium (m)",
+    "tree": "Ilex aquifolium (m)"
+  },
+  {
+    "genus": "Juglans",
+    "species": "ailantifolia",
+    "tree": "Juglans ailantifolia"
+  },
+  {
+    "genus": "Juniperus",
+    "species": "virginiana",
+    "tree": "Juniperus virginiana"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "grandiflora",
+    "tree": "Magnolia grandiflora"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "stellata",
+    "tree": "Magnolia stellata"
+  },
+  {
+    "genus": "Platanus",
+    "species": "spec.",
+    "tree": "Platanus"
+  },
+  {
+    "genus": "Pterocarya",
+    "species": "stenoptera",
+    "tree": "Pterocarya stenoptera"
+  },
+  {
+    "genus": "Quercus",
+    "species": "castaneifolia",
+    "tree": "Quercus castaneifolia"
+  },
+  {
+    "genus": "Quercus",
+    "species": "pubescens",
+    "tree": "Quercus pubescens"
+  },
+  {
+    "genus": "Salix",
+    "species": "appenticulata",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "elaeagnos",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "pentandra",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Abies",
+    "species": "pinsapo",
+    "tree": "Abies pinsapo"
+  },
+  {
+    "genus": "Betula",
+    "species": "pubescens",
+    "tree": "Betula pubescens"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "japonica",
+    "tree": "Carpinus japonica"
+  },
+  {
+    "genus": "Cephalotaxus",
+    "species": "fortunei",
+    "tree": "Cephalotaxus fortunei"
+  },
+  {
+    "genus": "Cotinus",
+    "species": "coggygria",
+    "tree": "Cotinus coggygria"
+  },
+  {
+    "genus": "Idesia",
+    "species": "polycarpa",
+    "tree": "Idesia polycarpa"
+  },
+  {
+    "genus": "Ilex",
+    "species": "aquifolium (w)",
+    "tree": "Ilex aquifolium (w)"
+  },
+  {
+    "genus": "Juniperus",
+    "species": "spec.",
+    "tree": "Juniperus"
+  },
+  {
+    "genus": "Phellodendron",
+    "species": "amurense",
+    "tree": "Phellodendron amurense"
+  },
+  {
+    "genus": "Pinus",
+    "species": "jeffreyi",
+    "tree": "Pinus jeffreyi"
+  },
+  {
+    "genus": "Prunus",
+    "species": "dulcis",
+    "tree": "Prunus dulcis"
+  },
+  {
+    "genus": "Pyrus",
+    "species": "pyrifolia",
+    "tree": "Pyrus pyrifolia"
+  },
+  {
+    "genus": "Quercus",
+    "species": "macrocarpa",
+    "tree": "Quercus macrocarpa"
+  },
+  {
+    "genus": "Salix",
+    "species": "myrsinifolia",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "latifolia",
+    "tree": "Sorbus latifolia"
+  },
+  {
+    "genus": "Thuja",
+    "species": "spec.",
+    "tree": "Thuja"
+  },
+  {
+    "genus": "Tilia",
+    "species": "x flavescens",
+    "tree": "Tilia"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "x arnoldiana",
+    "tree": "Aesculus x arnoldiana"
+  },
+  {
+    "genus": "Alnus",
+    "species": "subcordata",
+    "tree": "Alnus subcordata"
+  },
+  {
+    "genus": "Aralia",
+    "species": "elata",
+    "tree": "Aralia elata"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "intricata",
+    "tree": "Crataegus intricata"
+  },
+  {
+    "genus": "Cupressocyparis",
+    "species": "leylandii",
+    "tree": "Cupressus"
+  },
+  {
+    "genus": "Cupressus",
+    "species": "macrocarpa",
+    "tree": "Cupressus macrocarpa"
+  },
+  {
+    "genus": "Cupressus",
+    "species": "sempervirens",
+    "tree": "Cupressus sempervirens"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "liliiflora",
+    "tree": "Magnolia liliiflora"
+  },
+  {
+    "genus": "Picea",
+    "species": "glauca",
+    "tree": "Picea glauca"
+  },
+  {
+    "genus": "Pinus",
+    "species": "strobus",
+    "tree": "Pinus strobus"
+  },
+  {
+    "genus": "Pterocarya",
+    "species": "spec.",
+    "tree": "Pterocarya"
+  },
+  {
+    "genus": "Quercus",
+    "species": "phellos",
+    "tree": "Quercus phellos"
+  },
+  {
+    "genus": "Quercus",
+    "species": "pontica",
+    "tree": "Quercus pontica"
+  },
+  {
+    "genus": "Robinia",
+    "species": "spec.",
+    "tree": "Robinia"
+  },
+  {
+    "genus": "Salix",
+    "species": "rosmarinifolia",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Abies",
+    "species": "koreana",
+    "tree": "Abies koreana"
+  },
+  {
+    "genus": "Abies",
+    "species": "procera",
+    "tree": "Abies procera"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "indica",
+    "tree": "Aesculus indica"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "pavia",
+    "tree": "Aesculus pavia"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "x hybrida",
+    "tree": "Aesculus x hybrida"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "x neglecta",
+    "tree": "Aesculus x neglecta"
+  },
+  {
+    "genus": "Betula",
+    "species": "maximowicziana",
+    "tree": "Betula maximowicziana"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "turczaninowii",
+    "tree": "Carpinus turczaninowii"
+  },
+  {
+    "genus": "Carya",
+    "species": "illinoinensis",
+    "tree": "Carya illinoinensis"
+  },
+  {
+    "genus": "Cornus",
+    "species": "walteri",
+    "tree": "Cornus walteri"
+  },
+  {
+    "genus": "Gehölz (Laub oder N",
+    "species": "",
+    "tree": "Woody Plant"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "acuminata",
+    "tree": "Magnolia acuminata"
+  },
+  {
+    "genus": "Malus",
+    "species": "toringo",
+    "tree": "Malus toringo"
+  },
+  {
+    "genus": "Picea",
+    "species": "breweriana",
+    "tree": "Picea breweriana"
+  },
+  {
+    "genus": "Picea",
+    "species": "mariana",
+    "tree": "Picea mariana"
+  },
+  {
+    "genus": "Picea",
+    "species": "polita",
+    "tree": "Picea polita"
+  },
+  {
+    "genus": "Pinus",
+    "species": "flexilis",
+    "tree": "Pinus flexilis"
+  },
+  {
+    "genus": "Pinus",
+    "species": "ponderosa",
+    "tree": "Pinus ponderosa"
+  },
+  {
+    "genus": "Pinus",
+    "species": "sabiniana",
+    "tree": "Pinus sabiniana"
+  },
+  {
+    "genus": "Platycarya",
+    "species": "strobilacea",
+    "tree": "Platycarya strobilacea"
+  },
+  {
+    "genus": "Prunus",
+    "species": "x schmittii",
+    "tree": "Prunus"
+  },
+  {
+    "genus": "Quercus",
+    "species": "pyrenaica",
+    "tree": "Quercus pyrenaica"
+  },
+  {
+    "genus": "Salix",
+    "species": "purpurea",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "udensis",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "x smithiana",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Sciadopitys",
+    "species": "verticillata",
+    "tree": "Sciadopitys verticillata"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "megalocarpa",
+    "tree": "Sorbus megalocarpa"
+  },
+  {
+    "genus": "Zanthoxylum",
+    "species": "simulans",
+    "tree": "Zanthoxylum simulans"
+  },
+  {
+    "genus": "Zelkova",
+    "species": "carpinifolia",
+    "tree": "Zelkova carpinifolia"
+  },
+  {
+    "genus": "Abies",
+    "species": "cephalonica",
+    "tree": "Abies cephalonica"
+  },
+  {
+    "genus": "Abies",
+    "species": "nordmanniana subsp. equi-trojani",
+    "tree": "Abies"
+  },
+  {
+    "genus": "Acer",
+    "species": "capillipes",
+    "tree": "Acer capillipes"
+  },
+  {
+    "genus": "Acer",
+    "species": "circinatum",
+    "tree": "Acer circinatum"
+  },
+  {
+    "genus": "Acer",
+    "species": "shirasawanum",
+    "tree": "Acer shirasawanum"
+  },
+  {
+    "genus": "Albizia",
+    "species": "julibrissin",
+    "tree": "Albizia julibrissin"
+  },
+  {
+    "genus": "Alnus",
+    "species": "hirsuta",
+    "tree": "Alnus hirsuta"
+  },
+  {
+    "genus": "Alnus",
+    "species": "japonica",
+    "tree": "Alnus japonica"
+  },
+  {
+    "genus": "Alnus",
+    "species": "rubra",
+    "tree": "Alnus rubra"
+  },
+  {
+    "genus": "Betula",
+    "species": "costata",
+    "tree": "Betula costata"
+  },
+  {
+    "genus": "Carya",
+    "species": "cordiformis",
+    "tree": "Carya cordiformis"
+  },
+  {
+    "genus": "Cornus",
+    "species": "nuttallii",
+    "tree": "Cornus nuttallii"
+  },
+  {
+    "genus": "Crataegus",
+    "species": "coccinea",
+    "tree": "Crataegus coccinea"
+  },
+  {
+    "genus": "Diospyros",
+    "species": "lotus",
+    "tree": "Diospyros lotus"
+  },
+  {
+    "genus": "Firmiana",
+    "species": "simplex",
+    "tree": "Firmiana simplex"
+  },
+  {
+    "genus": "Juglans",
+    "species": "microcarpa",
+    "tree": "Juglans microcarpa"
+  },
+  {
+    "genus": "Laburnum",
+    "species": "anagyroides",
+    "tree": "Laburnum anagyroides"
+  },
+  {
+    "genus": "Laburnum",
+    "species": "spec.",
+    "tree": "Laburnum"
+  },
+  {
+    "genus": "Liquidambar",
+    "species": "orientalis",
+    "tree": "Liquidambar orientalis"
+  },
+  {
+    "genus": "Liriodendron",
+    "species": "chinense",
+    "tree": "Liriodendron chinense"
+  },
+  {
+    "genus": "Lonicera",
+    "species": "maackii",
+    "tree": "Lonicera maackii"
+  },
+  {
+    "genus": "Morus",
+    "species": "spec.",
+    "tree": "Morus"
+  },
+  {
+    "genus": "Paulownia",
+    "species": "spec.",
+    "tree": "Paulownia"
+  },
+  {
+    "genus": "Picea",
+    "species": "pungens (S)",
+    "tree": "Picea pungens (S)"
+  },
+  {
+    "genus": "Picea",
+    "species": "smithiana",
+    "tree": "Picea smithiana"
+  },
+  {
+    "genus": "Pinus",
+    "species": "aristata",
+    "tree": "Pinus aristata"
+  },
+  {
+    "genus": "Pinus",
+    "species": "densiflora",
+    "tree": "Pinus densiflora"
+  },
+  {
+    "genus": "Prunus",
+    "species": "nigra",
+    "tree": "Prunus nigra"
+  },
+  {
+    "genus": "Prunus",
+    "species": "virginiana",
+    "tree": "Prunus virginiana"
+  },
+  {
+    "genus": "Ptelea",
+    "species": "trifoliata",
+    "tree": "Ptelea trifoliata"
+  },
+  {
+    "genus": "Quercus",
+    "species": "alba",
+    "tree": "Quercus alba"
+  },
+  {
+    "genus": "Quercus",
+    "species": "bicolor",
+    "tree": "Quercus bicolor"
+  },
+  {
+    "genus": "Quercus",
+    "species": "faginea",
+    "tree": "Quercus faginea"
+  },
+  {
+    "genus": "Quercus",
+    "species": "imbricaria",
+    "tree": "Quercus imbricaria"
+  },
+  {
+    "genus": "Quercus",
+    "species": "prinoides",
+    "tree": "Quercus prinoides"
+  },
+  {
+    "genus": "Quercus",
+    "species": "rhysophylla",
+    "tree": "Quercus rhysophylla"
+  },
+  {
+    "genus": "Salix",
+    "species": "",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "aurita",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "caesia",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Salix",
+    "species": "gracilistyla",
+    "tree": "Salix"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "randaiensis",
+    "tree": "Sorbus randaiensis"
+  },
+  {
+    "genus": "Sycopsis",
+    "species": "sinensis",
+    "tree": "Sycopsis sinensis"
+  },
+  {
+    "genus": "Tetradium",
+    "species": "spec.",
+    "tree": "Tetradium"
+  },
+  {
+    "genus": "Tilia",
+    "species": "amurensis",
+    "tree": "Tilia amurensis"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "japonica",
+    "tree": "Ulmus japonica"
+  },
+  {
+    "genus": "x Chitalpa",
+    "species": "tashkentensis",
+    "tree": "x Chitalpa tashkentensis"
+  },
+  {
+    "genus": "Abies",
+    "species": "amabilis",
+    "tree": "Abies amabilis"
+  },
+  {
+    "genus": "Abies",
+    "species": "grandis",
+    "tree": "Abies grandis"
+  },
+  {
+    "genus": "Abies",
+    "species": "lasiocarpa",
+    "tree": "Abies lasiocarpa"
+  },
+  {
+    "genus": "Acer",
+    "species": "velutinum",
+    "tree": "Acer velutinum"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "",
+    "tree": "Aesculus"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "glabra",
+    "tree": "Aesculus glabra"
+  },
+  {
+    "genus": "Aesculus",
+    "species": "turbinata",
+    "tree": "Aesculus turbinata"
+  },
+  {
+    "genus": "Amelanchier",
+    "species": "laevis",
+    "tree": "Amelanchier laevis"
+  },
+  {
+    "genus": "Amelanchier",
+    "species": "rotundifolia",
+    "tree": "Amelanchier rotundifolia"
+  },
+  {
+    "genus": "Aralia",
+    "species": "spec.",
+    "tree": "Aralia"
+  },
+  {
+    "genus": "Asimina",
+    "species": "triloba",
+    "tree": "Asimina triloba"
+  },
+  {
+    "genus": "Betula",
+    "species": "",
+    "tree": "Betula"
+  },
+  {
+    "genus": "Betula",
+    "species": "platyphylla",
+    "tree": "Betula"
+  },
+  {
+    "genus": "Betula",
+    "species": "szechuanica",
+    "tree": "Betula"
+  },
+  {
+    "genus": "Betula",
+    "species": "x caerulea",
+    "tree": "Betula x caerulea"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "caroliniana",
+    "tree": "Carpinus caroliniana"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "kawakamii",
+    "tree": "Carpinus kawakamii"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "orientalis",
+    "tree": "Carpinus orientalis"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "polyneura",
+    "tree": "Carpinus polyneura"
+  },
+  {
+    "genus": "Carpinus",
+    "species": "spec.",
+    "tree": "Carpinus"
+  },
+  {
+    "genus": "Castanea",
+    "species": "henryi",
+    "tree": "Castanea henryi"
+  },
+  {
+    "genus": "Castanea",
+    "species": "mollissima",
+    "tree": "Castanea mollissima"
+  },
+  {
+    "genus": "Castanea",
+    "species": "pumila",
+    "tree": "Castanea pumila"
+  },
+  {
+    "genus": "Catalpa",
+    "species": "x erubescens",
+    "tree": "Catalpa x erubescens"
+  },
+  {
+    "genus": "Celtis",
+    "species": "mississipiensis",
+    "tree": "Celtis mississipiensis"
+  },
+  {
+    "genus": "Chimonanthus",
+    "species": "praecox",
+    "tree": "Chimonanthus praecox"
+  },
+  {
+    "genus": "Chionanthus",
+    "species": "retusus",
+    "tree": "Chionanthus retusus"
+  },
+  {
+    "genus": "Cladrastis",
+    "species": "lutea",
+    "tree": "Cladrastis lutea"
+  },
+  {
+    "genus": "Cornus",
+    "species": "",
+    "tree": "Cornus"
+  },
+  {
+    "genus": "Cornus",
+    "species": "sanguinea",
+    "tree": "Cornus sanguinea"
+  },
+  {
+    "genus": "Cunninghamia",
+    "species": "lanceolata",
+    "tree": "Cunninghamia lanceolata"
+  },
+  {
+    "genus": "Cupressus",
+    "species": "spec.",
+    "tree": "Cupressus"
+  },
+  {
+    "genus": "Diospyros",
+    "species": "kaki (w)",
+    "tree": "Diospyros kaki (w)"
+  },
+  {
+    "genus": "Diospyros",
+    "species": "spec.",
+    "tree": "Diospyros"
+  },
+  {
+    "genus": "Elaeagnus",
+    "species": "multiflora",
+    "tree": "Elaeagnus multiflora"
+  },
+  {
+    "genus": "Eriobotrya",
+    "species": "japonica",
+    "tree": "Eriobotrya japonica"
+  },
+  {
+    "genus": "Euptelea",
+    "species": "polyandra",
+    "tree": "Euptelea polyandra"
+  },
+  {
+    "genus": "Fagus",
+    "species": "crenata",
+    "tree": "Fagus crenata"
+  },
+  {
+    "genus": "Fagus",
+    "species": "engleriana",
+    "tree": "Fagus engleriana"
+  },
+  {
+    "genus": "Fagus",
+    "species": "grandifolia",
+    "tree": "Fagus grandifolia"
+  },
+  {
+    "genus": "Frangula",
+    "species": "alnus",
+    "tree": "Frangula alnus"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "anomala",
+    "tree": "Fraxinus anomala"
+  },
+  {
+    "genus": "Fraxinus",
+    "species": "latifolia",
+    "tree": "Fraxinus latifolia"
+  },
+  {
+    "genus": "Gleditsia",
+    "species": "spec.",
+    "tree": "Gleditsia"
+  },
+  {
+    "genus": "Gymnocladus",
+    "species": "dioica (m)",
+    "tree": "Gymnocladus dioica (m)"
+  },
+  {
+    "genus": "Holodiscus",
+    "species": "discolor",
+    "tree": "Holodiscus discolor"
+  },
+  {
+    "genus": "Juglans",
+    "species": "cinerea",
+    "tree": "Juglans cinerea"
+  },
+  {
+    "genus": "Juglans",
+    "species": "mandshurica",
+    "tree": "Juglans mandshurica"
+  },
+  {
+    "genus": "Juniperus",
+    "species": "scopulorum",
+    "tree": "Juniperus scopulorum"
+  },
+  {
+    "genus": "Ligustrum",
+    "species": "sinense",
+    "tree": "Ligustrum sinense"
+  },
+  {
+    "genus": "Maackia",
+    "species": "amurensis",
+    "tree": "Maackia amurensis"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "denudata",
+    "tree": "Magnolia denudata"
+  },
+  {
+    "genus": "Magnolia",
+    "species": "tripetala",
+    "tree": "Magnolia tripetala"
+  },
+  {
+    "genus": "Malus",
+    "species": "prunifolia",
+    "tree": "Malus prunifolia"
+  },
+  {
+    "genus": "Malus",
+    "species": "pumila",
+    "tree": "Malus pumila"
+  },
+  {
+    "genus": "Morus",
+    "species": "kagayamae",
+    "tree": "Morus kagayamae"
+  },
+  {
+    "genus": "Olea",
+    "species": "europaea",
+    "tree": "Olea europaea"
+  },
+  {
+    "genus": "Osmanthus",
+    "species": "decorus",
+    "tree": "Osmanthus decorus"
+  },
+  {
+    "genus": "Ostrya",
+    "species": "japonica",
+    "tree": "Ostrya japonica"
+  },
+  {
+    "genus": "Ostrya",
+    "species": "virginiana",
+    "tree": "Ostrya virginiana"
+  },
+  {
+    "genus": "Phellodendron",
+    "species": "japonicum",
+    "tree": "Phellodendron japonicum"
+  },
+  {
+    "genus": "Photinia",
+    "species": "x fraseri",
+    "tree": "Photinia x fraseri"
+  },
+  {
+    "genus": "Picea",
+    "species": "bicolor",
+    "tree": "Picea bicolor"
+  },
+  {
+    "genus": "Picea",
+    "species": "engelmannii",
+    "tree": "Picea engelmannii"
+  },
+  {
+    "genus": "Pinus",
+    "species": "monticola",
+    "tree": "Pinus monticola"
+  },
+  {
+    "genus": "Pinus",
+    "species": "peuce",
+    "tree": "Pinus peuce"
+  },
+  {
+    "genus": "Platycladus",
+    "species": "orientalis",
+    "tree": "Platycladus orientalis"
+  },
+  {
+    "genus": "Poncirus",
+    "species": "trifoliata",
+    "tree": "Poncirus trifoliata"
+  },
+  {
+    "genus": "Populus",
+    "species": "trichocarpa",
+    "tree": "Populus trichocarpa"
+  },
+  {
+    "genus": "Prunus",
+    "species": "mume",
+    "tree": "Prunus mume"
+  },
+  {
+    "genus": "Prunus",
+    "species": "pendula",
+    "tree": "Prunus pendula"
+  },
+  {
+    "genus": "Prunus",
+    "species": "x blireana",
+    "tree": "Prunus"
+  },
+  {
+    "genus": "Pterocarya",
+    "species": "x rehderiana",
+    "tree": "Pterocarya"
+  },
+  {
+    "genus": "Pyrus",
+    "species": "x canescens",
+    "tree": "Pyrus x canescens"
+  },
+  {
+    "genus": "Quercus",
+    "species": "",
+    "tree": "Quercus"
+  },
+  {
+    "genus": "Quercus",
+    "species": "acutissima",
+    "tree": "Quercus acutissima"
+  },
+  {
+    "genus": "Quercus",
+    "species": "garryana",
+    "tree": "Quercus garryana"
+  },
+  {
+    "genus": "Quercus",
+    "species": "ithaburensis",
+    "tree": "Quercus ithaburensis"
+  },
+  {
+    "genus": "Quercus",
+    "species": "velutina",
+    "tree": "Quercus velutina"
+  },
+  {
+    "genus": "Rhus",
+    "species": "typhina",
+    "tree": "Rhus typhina"
+  },
+  {
+    "genus": "Robinia",
+    "species": "viscosa",
+    "tree": "Robinia viscosa"
+  },
+  {
+    "genus": "Robinia",
+    "species": "x ambigua",
+    "tree": "Robinia x ambigua"
+  },
+  {
+    "genus": "Sophora",
+    "species": "spec.",
+    "tree": "Sophora"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "decora",
+    "tree": "Sorbus decora"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "hybrida",
+    "tree": "Sorbus hybrida"
+  },
+  {
+    "genus": "Sorbus",
+    "species": "scalaris",
+    "tree": "Sorbus scalaris"
+  },
+  {
+    "genus": "Stewartia",
+    "species": "pseudocamellia",
+    "tree": "Stewartia pseudocamellia"
+  },
+  {
+    "genus": "Taxus",
+    "species": "spec.",
+    "tree": "Taxus"
+  },
+  {
+    "genus": "Tilia",
+    "species": "endochrysea",
+    "tree": "Tilia endochrysea"
+  },
+  {
+    "genus": "Torreya",
+    "species": "californica",
+    "tree": "Torreya californica"
+  },
+  {
+    "genus": "Torreya",
+    "species": "nucifera",
+    "tree": "Torreya nucifera"
+  },
+  {
+    "genus": "Tsuga",
+    "species": "diversifolia",
+    "tree": "Tsuga diversifolia"
+  },
+  {
+    "genus": "Tsuga",
+    "species": "heterophylla",
+    "tree": "Tsuga heterophylla"
+  },
+  {
+    "genus": "Tsuga",
+    "species": "spec.",
+    "tree": "Tsuga"
+  },
+  {
+    "genus": "Ulmus",
+    "species": "americana",
+    "tree": "Ulmus americana"
+  },
+  {
+    "genus": "Zanthoxylum",
+    "species": "piperitum",
+    "tree": "Zanthoxylum piperitum"
+  }
+]
