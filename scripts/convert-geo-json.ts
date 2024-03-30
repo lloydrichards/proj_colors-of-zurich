@@ -1,4 +1,7 @@
-import type { Data } from "./trefle-types";
+const categoryMap = {
+  Parkbaum: "PARK",
+  Strassenbaum: "STREET",
+} as const;
 
 const main = async () => {
   const path = "scripts/data/gsz.baumkataster_baumstandorte.json";
@@ -12,24 +15,49 @@ const main = async () => {
   };
 
   const converted = contents.features.map((feature) => {
-    const species_id =
-      feature.properties.baumartlat == "spec."
-        ? feature.properties.baumgattunglat
-        : feature.properties.baumartlat?.startsWith("x ")
-          ? feature.properties.baumgattunglat
-          : `${feature.properties.baumgattunglat} ${feature.properties.baumartlat}`;
+    const getSpecies = (data: Properties) => {
+      if (data.baumartlat == "spec.") return data.baumgattunglat;
+
+      if (data.baumnamelat == "Obstbaum") return "Malus";
+
+      if (data.baumnamelat == "Laubbaum") return "Acer";
+
+      if (!data.baumartlat) return data.baumgattunglat;
+
+      if (data.baumnamelat.includes("Gehölz")) return "Acer";
+
+      if (data.baumnamelat.includes("Salix ")) return "Salix";
+
+      if (data.baumartlat.includes(" '"))
+        return data.baumgattunglat + " " + data.baumartlat.split(" '")[0];
+
+      if (data.baumartlat.includes(" ("))
+        return data.baumgattunglat + " " + data.baumartlat.split(" (")[0];
+
+      if (data.baumartlat.startsWith("x ")) return data.baumgattunglat;
+
+      return data.baumgattunglat + " " + data.baumartlat;
+    };
+
+    const cultivar = feature.properties.baumnamelat.includes(" '")
+      ? feature.properties.baumnamelat.split(" '")[1]?.slice(0, -1)
+      : null;
 
     return {
-      id: feature.properties.poi_id,
-      category: feature.properties.kategorie,
+      name: feature.properties.baumnamelat,
+      number: feature.properties.baumnummer,
+      category:
+        categoryMap[feature.properties.kategorie as keyof typeof categoryMap],
       quarter: feature.properties.quartier,
       address: feature.properties.strasse,
       family: feature.properties.baumgattunglat,
-      genus: feature.properties.baumartlat,
-      species_name: feature.properties.baumnamelat,
-      species_id,
-      year: feature.properties.pflanzjahr ? Number(feature.properties.pflanzjahr): null,
-      coordinates: feature.geometry.coordinates,
+      species: getSpecies(feature.properties),
+      cultivar: cultivar ?? null,
+      year: feature.properties.pflanzjahr
+        ? Number(feature.properties.pflanzjahr)
+        : null,
+      longitude: feature.geometry.coordinates[0],
+      latitude: feature.geometry.coordinates[1],
     };
   });
 

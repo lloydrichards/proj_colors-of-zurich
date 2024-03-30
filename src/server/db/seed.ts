@@ -1,6 +1,6 @@
 import { drizzle } from "drizzle-orm/node-postgres";
 import { Pool } from "pg";
-import { trees } from "./schema";
+import { species, trees } from "./schema";
 import { env } from "@/env";
 
 const pool = new Pool({
@@ -8,18 +8,36 @@ const pool = new Pool({
 });
 const db = drizzle(pool);
 
-const categoryMap = {
-  Parkbaum: "PARK",
-  Strassenbaum: "STREET",
-} as const;
-
 const main = async () => {
   console.log("Seed start");
-  const path = "scripts/data/converted.json";
-  const file = Bun.file(path);
-  const contents = (await file.json()) as Array<SeedDatum>;
-  console.log(contents.length);
+  await db.delete(trees);
 
+  const speciesFile = Bun.file("scripts/data/tidy.json");
+  const speciesContents = (await speciesFile.json()) as Array<{ id: string }>;
+  const treeFile = Bun.file("scripts/data/converted.json");
+  const contents = (await treeFile.json()) as Array<SeedDatum>;
+
+  const allSpecies = speciesContents.map((c) => c.id);
+  const uniqueSpecies = Array.from(new Set(contents.map((c) => c.species)));
+
+  // find species that are not in the species file
+  const missingSpecies = uniqueSpecies.filter((s) => !allSpecies.includes(s));
+  if (missingSpecies.length > 0) {
+    console.error(
+      `Missing species: ${missingSpecies.join(", ")}. Please run scripts/scrape-data.ts`,
+    );
+    process.exit(1);
+  }
+  console.log("Adding species...");
+  console.log(
+    `Found ${speciesContents.length} records. Splitting into batches...`,
+  );
+  await db
+    .insert(species)
+    .values(speciesContents as unknown as typeof species.$inferInsert);
+
+  console.log("Adding trees...");
+  console.log(`Found ${contents.length} records. Splitting into batches...`);
   const batches = contents.reduce(
     (acc, content, index) => {
       const batchIndex = Math.floor(index / 100);
@@ -37,24 +55,16 @@ const main = async () => {
     if (!batch) {
       return;
     }
-    await db.insert(trees).values(
-      batch.map(
-        (datum) =>
-          ({
-            number: datum.id,
-            category: categoryMap[datum.category as keyof typeof categoryMap],
-            quarter: datum.quarter,
-            address: datum.address,
-            family: datum.family,
-            genus: datum.genus,
-            species: datum.species_id,
-            name: datum.species_name,
-            year: datum.year,
-            longitude: datum.coordinates[0],
-            latitude: datum.coordinates[1],
-          }) as unknown as typeof trees.$inferInsert,
-      ),
+
+    await Promise.all(
+      batch.map((b) => {
+        console.log(`Adding tree ${b.name}...`);
+        return db
+          .insert(trees)
+          .values(b as unknown as typeof trees.$inferInsert);
+      }),
     );
+
     console.log(`added ${batch.length} records. Waiting...`);
     await new Promise((resolve) => setTimeout(resolve, 500));
     await queue();
@@ -77,14 +87,14 @@ main()
   });
 
 type SeedDatum = {
-  id: string;
+  name: string;
   category: string;
   quarter: string;
   address: string;
   family: string;
   genus: string;
-  species_name: string;
-  species_id: string;
+  species: string;
   year: number | null;
-  coordinates: [number, number];
+  longitude: number;
+  latitude: number;
 };

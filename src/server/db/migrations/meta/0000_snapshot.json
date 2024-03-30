@@ -1,9 +1,169 @@
 {
-  "id": "c70302cf-a2f9-4a99-ad4d-5725ba2c5f47",
+  "id": "8ad0e5e4-5b0e-472c-aa14-8068a82e72eb",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "5",
   "dialect": "pg",
   "tables": {
+    "colors-of-zurich_species": {
+      "name": "colors-of-zurich_species",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "text",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "common_name": {
+          "name": "common_name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "common_names": {
+          "name": "common_names",
+          "type": "text[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "scientific_name": {
+          "name": "scientific_name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "genus": {
+          "name": "genus",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "family": {
+          "name": "family",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "flower_color": {
+          "name": "flower_color",
+          "type": "text[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "bloom_months": {
+          "name": "bloom_months",
+          "type": "month[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "foliage_texture": {
+          "name": "foliage_texture",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "foliage_color": {
+          "name": "foliage_color",
+          "type": "text[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "fruit_color": {
+          "name": "fruit_color",
+          "type": "text[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "fruit_shape": {
+          "name": "fruit_shape",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "fruit_months": {
+          "name": "fruit_months",
+          "type": "month[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "growth_form": {
+          "name": "growth_form",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "growth_habit": {
+          "name": "growth_habit",
+          "type": "habit[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "growth_rate": {
+          "name": "growth_rate",
+          "type": "rate",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "growth_months": {
+          "name": "growth_months",
+          "type": "month[]",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "light": {
+          "name": "light",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "humidity": {
+          "name": "humidity",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "ph_min": {
+          "name": "ph_min",
+          "type": "double precision",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "ph_max": {
+          "name": "ph_max",
+          "type": "double precision",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "nutriments": {
+          "name": "nutriments",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "salinity": {
+          "name": "salinity",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "soil_texture": {
+          "name": "soil_texture",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "soil_humidity": {
+          "name": "soil_humidity",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    },
     "colors-of-zurich_trees": {
       "name": "colors-of-zurich_trees",
       "schema": "",
@@ -13,6 +173,12 @@
           "type": "serial",
           "primaryKey": true,
           "notNull": true
+        },
+        "name": {
+          "name": "name",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
         },
         "number": {
           "name": "number",
@@ -56,14 +222,20 @@
           "primaryKey": false,
           "notNull": false
         },
+        "cultivar": {
+          "name": "cultivar",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
         "year": {
           "name": "year",
           "type": "integer",
           "primaryKey": false,
           "notNull": false
         },
-        "longitute": {
-          "name": "longitute",
+        "longitude": {
+          "name": "longitude",
           "type": "numeric",
           "primaryKey": false,
           "notNull": false
@@ -76,12 +248,60 @@
         }
       },
       "indexes": {},
-      "foreignKeys": {},
+      "foreignKeys": {
+        "colors-of-zurich_trees_species_colors-of-zurich_species_id_fk": {
+          "name": "colors-of-zurich_trees_species_colors-of-zurich_species_id_fk",
+          "tableFrom": "colors-of-zurich_trees",
+          "tableTo": "colors-of-zurich_species",
+          "columnsFrom": [
+            "species"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "no action",
+          "onUpdate": "no action"
+        }
+      },
       "compositePrimaryKeys": {},
       "uniqueConstraints": {}
     }
   },
   "enums": {
+    "habit": {
+      "name": "habit",
+      "values": {
+        "TREE": "TREE",
+        "SHRUB": "SHRUB",
+        "VINE": "VINE",
+        "HERB": "HERB"
+      }
+    },
+    "month": {
+      "name": "month",
+      "values": {
+        "JAN": "JAN",
+        "FEB": "FEB",
+        "MAR": "MAR",
+        "APR": "APR",
+        "MAY": "MAY",
+        "JUN": "JUN",
+        "JUL": "JUL",
+        "AUG": "AUG",
+        "SEP": "SEP",
+        "OCT": "OCT",
+        "NOV": "NOV",
+        "DEC": "DEC"
+      }
+    },
+    "rate": {
+      "name": "rate",
+      "values": {
+        "SLOW": "SLOW",
+        "MODERATE": "MODERATE",
+        "RAPID": "RAPID"
+      }
+    },
     "category": {
       "name": "category",
       "values": {

@@ -181,19 +181,19 @@ export interface Links2 {
 }
 
 export interface Flower2 {
-  color: unknown;
+  color: string[];
   conspicuous: boolean;
 }
 
 export interface Foliage {
   texture: string;
-  color: unknown;
+  color: string[];
   leaf_retention: boolean;
 }
 
 export interface FruitOrSeed {
   conspicuous: boolean;
-  color: unknown;
+  color: string[];
   shape: unknown;
   seed_persistence: boolean;
 }
@@ -228,9 +228,9 @@ export interface Growth {
   ph_minimum: number;
   light: number;
   atmospheric_humidity: number;
-  growth_months: unknown;
-  bloom_months: unknown;
-  fruit_months: unknown;
+  growth_months: string[];
+  bloom_months: string[];
+  fruit_months: string[];
   minimum_precipitation: MinimumPrecipitation;
   maximum_precipitation: MaximumPrecipitation;
   minimum_root_depth: MinimumRootDepth;
